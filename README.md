@@ -1,7 +1,7 @@
 # Hi 👋
 
-### 📝 About
-My name is Leander Alves, I'm a Computer Engineer from the Federal University of Mato Grosso - Brazil, and a developer for over 4 years. Currently I work with JS technologies like: Vue.js, Angular, NestJS, Prisma ORM and Node.js. I've had the opportunity to work on several projects and teams, in which I could always learn more, improve on the knowledge already obtained and contribute to the team.
+### 📝 About me
+My name is Leander Alves, I'm a Computer Engineer from the Federal University of Mato Grosso - Brazil, and a software developer for over 4 years. Currently I work with JS technologies like: Vue.js, Angular, NestJS, Prisma ORM and Node.js. I've had the opportunity to work on several projects and teams, in which I could always learn more, improve on the knowledge already obtained and contribute to the team.
 
 
 ### 🔝 Languages & Technologies
@@ -72,16 +72,6 @@ display: flex;
 		border-radius: 4px;
 	"/>
 	<img src="./mongodb.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-  	<img src="./postgresql.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-	<img src="./docker.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
