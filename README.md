@@ -68,11 +68,6 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
 	<img src="./vue-dot-js.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
@@ -93,17 +88,7 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-	<img src="./mysql.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
   	<img src="./postgresql.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-  	<img src="./git.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
