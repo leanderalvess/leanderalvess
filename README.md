@@ -16,20 +16,6 @@ Me chamdo Leander Alves, sou Engenheiro de Computação pela Universidade Federa
 
 No meu tempo livre gosto de assistir séries, sair para uma corrida ou cozinhar... :)
 
-Conhecimentos sobre:
-- C#, ASP.NET;
-- Javascript, Typescript;
-- Vue.js, Angular e AngularJS;
-- HTML, CSS, PHP;
-- NestJS, Prisma, Node.js, MongoDB;
-- C, SQL, PostgreSQL, Docker, Jenkins;
-- GeneXus;
-- Qlik Sense e Microsoft Power BI.
-
-<!-- ### 🚀 Some Status
-
-<img src="https://github-readme-stats.vercel.app/api?username=leanderalvess&count_private=true&show_icons=true&theme=radical" /> -->
-
 ### 🔝 Languages & Technologies
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderalvess" />
@@ -42,7 +28,12 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-	<img src="./cSharp.svg" width="50" style="
+	<img src="./csharp.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
@@ -72,12 +63,32 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-	<img src="./angular.svg" width="50" style="
+	<img src="./angular-icon.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
 	<img src="./vue-dot-js.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./nestjs-icon.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./prisma.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./mongodb.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
@@ -103,10 +114,8 @@ display: flex;
 		border-radius: 4px;
 	"/>
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanderalvess" alt="leanderalvess" /></p>
 ---
 
 ### 🤔 Would you like to find me?
 
-[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:leanderlvda@gmail.com) => leanderlvda@gmail.com
+[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:leanderlvda@gmail.com)
