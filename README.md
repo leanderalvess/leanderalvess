@@ -77,7 +77,6 @@ display: flex;
 		border-radius: 4px;
 	"/>
 </div>
----
 
 ### 🤔 Would you like to find me?
 
