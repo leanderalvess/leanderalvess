@@ -104,10 +104,9 @@ display: flex;
 	"/>
 </div>
 
-![Visitors Count(https://profile-counter.glitch.me/gabrielpatrola/count.svg)](https://profile-counter.glitch.me/gabrielpatrola/count.svg)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielpatrola" alt="gabrielpatrola" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanderalvess" alt="leanderalvess" /></p>
 ---
 
 ### 🤔 Would you like to find me?
 
-[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:leanderlvda@gmail.com)
+[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:leanderlvda@gmail.com) => leanderlvda@gmail.com
