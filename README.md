@@ -28,7 +28,7 @@ display: flex;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-	<img src="./csharp.svg" width="50" style="
+	<img src="./c--4.svg" width="50" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
