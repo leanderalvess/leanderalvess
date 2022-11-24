@@ -1,11 +1,11 @@
 # Hi 👋 I'm Leander
 
 ### 📝 About me
-Hello, my name is Leander Alves, I'm a Computer Engineer and dedicated in Full-stack development, currently based in Brazil(🇧🇷). Overall, I'm a software developer for over 4 years and very passionate about what I do, always looking to increase my knowledge, diversify my background and decipher challenging problems.
+Hello, my name is Leander Alves I'm a Computer Engineer and dedicated in Full-stack development, currently based in Brazil(🇧🇷). Overall, I'm a software developer for over 4 years and very passionate about what I do, always looking to increase my knowledge, diversify my background and decipher challenging problems.
 
-I'm a JS/C# and Angular/Vue.js Developer since 2020, and my development tools include some more JS/TS technologies such as: NestJS, PrismaORM, TypeORM and Node.js. But I'm not limited to these, I also have knowledge with ASP.NET, MongoDB, SQL, Oracle SQL, PostgreSQL, Docker and others...
+I'm a JS/C# and Angular/Vue.js Developer since 2020, and my development tools include some more JS/TS technologies such as: NestJS, PrismaORM, TypeORM and Node.js. But I'm not limited to these, I also have knowledge with ASP.NET, MongoDB, SQL, PostgreSQL, Docker and others...
 
-In my free time I like to go to the gym (🏋🏻‍♂️), watch series [FRIENDS many times] (📺), to listen to music (🎵) and sometimes I like to enjoy a good beer (🍺).
+In my free time I like to go to the gym (🏋🏻‍♂️), watch series [Friends mostly] (📺), to listen to music (🎵) and sometimes I like to enjoy a good beer (🍺).
 
 My public projects are available here on my Github.
 
@@ -97,5 +97,5 @@ display: flex;
 
 ---
 ### Would you like to find me?
-[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:leanderlvda@gmail.com)
-<a href = "https://www.linkedin.com/in/leanderalves/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a title="E-mail" href = "mailto:leanderlvda@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/envelope.png"/></a>
+<a title="LinkedIn" href = "https://www.linkedin.com/in/leanderalves/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
