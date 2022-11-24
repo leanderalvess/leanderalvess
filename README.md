@@ -16,7 +16,11 @@ My public projects are available here on my Github.
 ### 🔝 Languages & Technologies
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderalvess&hide=css" />
+<small>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</small>
+
+
 
 <div style="
 display: flex;
