@@ -96,5 +96,5 @@ display: flex;
 
 ---
 ### Would you like to find me?
-<a href = "mailto:leanderlvda@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/envelope.png"/></a>
-<a href = "https://www.linkedin.com/in/leanderalves/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a title="E-mail" href = "mailto:leanderlvda@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/envelope.png"/></a>
+<a title="LinkedIn" href = "https://www.linkedin.com/in/leanderalves/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
