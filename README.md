@@ -97,6 +97,4 @@ display: flex;
 ---
 ### Would you like to find me?
 [![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:leanderlvda@gmail.com)
-<p align="left">
 <a href = "https://www.linkedin.com/in/leanderalves/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-</p>
