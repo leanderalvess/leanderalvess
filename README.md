@@ -22,6 +22,9 @@ My public projects are available here on my Github.
 
 [//]: <languages>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderalvess&hide=css&layout=compact&show_icons=true&theme=transparent&hide_border=true" />
+
+<br/>
+
 <small>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </small>
