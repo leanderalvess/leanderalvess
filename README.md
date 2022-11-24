@@ -9,12 +9,13 @@ In my free time I like to go to the gym (🏋🏻‍♂️), watch series [Frien
 
 My public projects are available here on my Github.
 
+---
 ### 🚀 Some Github Status, Languages & Technologies
 
 <img src="https://github-readme-stats.vercel.app/api?username=leanderalvess&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
 
 <p align="left">
-	<img title="Get streak stats for your profile at git.io/streak-stats" alt="Leander's streak" src="https://streak-stats.demolab.com?user=leanderalvess&theme=black-ice&hide_border=true"/>
+	<img title="Get streak stats for your profile at git.io/streak-stats" alt="Leander's streak" src="https://streak-stats.demolab.com?user=leanderalvess&theme=black-ice&hide_border=true&background=DD272700"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderalvess&hide=css&layout=compact&show_icons=true&theme=transparent&hide_border=true" />
