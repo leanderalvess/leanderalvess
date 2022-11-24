@@ -10,9 +10,9 @@ In my free time I like to go to the gym (🏋🏻‍♂️), watch series [Frien
 
 My public projects are available here on my Github.
 
-## Some Github status, languages & technologies 🚀
-
 <br/>
+
+## Some Github status, languages & technologies 🚀
 
 [//]: <status>
 <a href="https://github.com/leanderalvess"><img src="https://github-readme-stats.vercel.app/api?username=leanderalvess&count_private=true&show_icons=true&theme=transparent&hide_border=true" /></a>
@@ -23,7 +23,6 @@ My public projects are available here on my Github.
 [//]: <languages>
 <a href="https://github.com/leanderalvess"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderalvess&hide=css&layout=compact&show_icons=true&theme=transparent&hide_border=true" /></a>
 
-<br/>
 
 <div style="
 display: flex;
