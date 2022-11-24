@@ -9,14 +9,21 @@ In my free time I like to go to the gym (🏋🏻‍♂️), watch series [FRIEN
 
 My public projects are available here on my Github.
 
-### 🚀 Some Status
+### 🚀 Some Github Status, Languages & Technologies
 
-<img src="https://github-readme-stats.vercel.app/api?username=leanderalvess&count_private=true&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=leanderalvess&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
 
-### 🔝 Languages & Technologies
+<p align="left">
+	<img title="Get streak stats for your profile at git.io/streak-stats" alt="Leander's streak" src="https://streak-stats.demolab.com?user=leanderalvess&theme=black-ice&hide_border=true)"/>
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderalvess&hide=css" />
+<small>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</small>
+
+<br/>
+<br/>
 
 <div style="
 display: flex;
@@ -88,11 +95,7 @@ display: flex;
 	"/>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leanderalvess" alt="leanderalvess" /></p>
-
 ---
 ### Would you like to find me?
 [![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:leanderlvda@gmail.com)
-<p align="left">
 <a href = "https://www.linkedin.com/in/leanderalves/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-</p>
