@@ -23,9 +23,7 @@ My public projects are available here on my Github.
 [//]: <languages>
 <a href="https://github.com/leanderalvess"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderalvess&hide=css&layout=compact&show_icons=true&theme=transparent&hide_border=true" /></a>
 
-<small>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</small>
+<br/>
 
 <div style="
 display: flex;
@@ -97,9 +95,9 @@ display: flex;
 	"/>
 </div>
 
-## Would you like to find me?
-
 <br/>
+
+## Would you like to find me?
 
 <a title="E-mail" href = "mailto:leanderlvda@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/envelope.png"/></a>
 <a title="LinkedIn" href = "https://www.linkedin.com/in/leanderalves/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
