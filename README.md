@@ -8,9 +8,7 @@ I'm a JS/C# and Angular/Vue.js Developer since 2020, and my development tools in
 
 In my free time I like to go to the gym (🏋🏻‍♂️), watch series [Friends mostly] (📺), to listen to music (🎵) and sometimes I like to enjoy a good beer (🍺).
 
-My public projects are available here on my Github.
 
-<br/>
 
 ## Some Github status, languages & technologies 🚀
 
@@ -94,7 +92,6 @@ display: flex;
 	"/>
 </div>
 
-<br/>
 
 ## Would you like to find me?
 
