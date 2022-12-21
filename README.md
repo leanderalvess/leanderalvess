@@ -1,99 +1,66 @@
 # Hi 👋 I'm Leander
+# 💫 About Me:
+Hello, my name is Leander Alves I'm a Computer Engineer and dedicated in Full-stack development, currently based in Brazil(🇧🇷). Overall, I'm a software developer for over 4 years and very passionate about what I do, always looking to increase my knowledge, diversify my background and decipher challenging problems.<br><br>I'm a JS/C# and Angular/Vue.js Developer since 2020, and my development tools include some more JS/TS technologies such as: NestJS, PrismaORM, TypeORM and Node.js. But I'm not limited to these, I also have knowledge with ASP.NET, MongoDB, SQL, PostgreSQL, Docker and others...<br><br>In my free time I like to go to the gym (🏋🏻‍♂️), watch series [Friends mostly] (📺), to listen to music (🎵) and sometimes I like to enjoy a good beer (🍺).
 
-## About Me 📝
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) <br><br>
 
-Hello, my name is Leander Alves I'm a Computer Engineer and dedicated in Full-stack development, currently based in Brazil(🇧🇷). Overall, I'm a software developer for over 4 years and very passionate about what I do, always looking to increase my knowledge, diversify my background and decipher challenging problems.
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)  <br><br>
 
-I'm a JS/C# and Angular/Vue.js Developer since 2020, and my development tools include some more JS/TS technologies such as: NestJS, PrismaORM, TypeORM and Node.js. But I'm not limited to these, I also have knowledge with ASP.NET, MongoDB, SQL, PostgreSQL, Docker and others...
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br><br>
 
-In my free time I like to go to the gym (🏋🏻‍♂️), watch series [Friends mostly] (📺), to listen to music (🎵) and sometimes I like to enjoy a good beer (🍺).
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=leanderalvess&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=leanderalvess&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leanderalvess&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=leanderalvess&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
-
-## Some Github status, languages & technologies 🚀
-
-[//]: <status>
-<a href="https://github.com/leanderalvess"><img src="https://github-readme-stats.vercel.app/api?username=leanderalvess&count_private=true&show_icons=true&theme=transparent&hide_border=true" /></a>
-
-[//]: <streak>
-<a href="https://github.com/leanderalvess"><img title="Get streak stats for your profile at git.io/streak-stats" alt="Leander's streak" src="https://streak-stats.demolab.com?user=leanderalvess&theme=black-ice&hide_border=true&background=DD272700"/></a>
-
-[//]: <languages>
-<a href="https://github.com/leanderalvess"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderalvess&hide=css&layout=compact&show_icons=true&theme=transparent&hide_border=true" /></a>
-
-
-<div style="
-display: flex;
-">
-  	<img src="./c.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-	<img src="./c--4.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-	<img src="./html5.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-	<img src="./css3.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-  	<img src="./javascript.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-  	<img src="./typescript.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-  	<img src="./node-dot-js.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-	<img src="./angular-icon.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-	<img src="./vue-dot-js.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-	<img src="./nestjs-icon.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-	<img src="./prisma.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-	<img src="./mongodb.svg" width="50" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=leanderalvess&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
-## Would you like to find me?
 
-<a title="E-mail" href = "mailto:leanderlvda@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/envelope.png"/></a>
-<a title="LinkedIn" href = "https://www.linkedin.com/in/leanderalves/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+# 🌐 Would you like to find me?:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leanderalves)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leanderlvda@gmail.com)
+
