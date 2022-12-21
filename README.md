@@ -1,4 +1,4 @@
-# Hi 👋 I'm Leander
+# <p style="text-align: center;">Hi 👋 I'm Leander</p>
 # 💫 About Me:
 Hello, my name is Leander Alves I'm a Computer Engineer and dedicated in Full-stack development, currently based in Brazil(🇧🇷). Overall, I'm a software developer for over 4 years and very passionate about what I do, always looking to increase my knowledge, diversify my background and decipher challenging problems.<br><br>I'm a JS/C# and Angular/Vue.js Developer since 2020, and my development tools include some more JS/TS technologies such as: NestJS, PrismaORM, TypeORM and Node.js. But I'm not limited to these, I also have knowledge with ASP.NET, MongoDB, SQL, PostgreSQL, Docker and others...<br><br>In my free time I like to go to the gym (🏋🏻‍♂️), watch series [Friends mostly] (📺), to listen to music (🎵) and sometimes I like to enjoy a good beer (🍺).
 
@@ -61,6 +61,6 @@ Hello, my name is Leander Alves I'm a Computer Engineer and dedicated in Full-st
 
 
 # 🌐 Would you like to find me?:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leanderalves)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leanderalves)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leanderlvda@gmail.com)
 
