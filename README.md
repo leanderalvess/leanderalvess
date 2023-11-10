@@ -1,4 +1,5 @@
-# <div align="center">Hi 👋 I'm Leander</div>
+<div align="center">Hi 👋 I'm Leander</div>
+
 # 💫 About Me:
 Hello, my name is Leander Alves I'm a Computer Engineer and dedicated in Full-stack development, currently based in Brazil(🇧🇷). Overall, I'm a software developer very passionate about what I do, always looking to increase my knowledge, diversify my background and decipher challenging problems.<br><br>I currently work with JS technologies, such as: Vue.js, Angular, NestJS, Prisma ORM, TypeORM, Express.JS and Node.js, but I am not limited to these. I also have knowledge about: ASP.NET, MongoDB, SQL, PostgreSQL, Docker and others...<br><br>In my free time I like to go to the gym (🏋🏻‍♂️), watch series [Friends mostly] (📺), to listen to music (🎵) and sometimes I like to enjoy a good beer (🍺).
 
