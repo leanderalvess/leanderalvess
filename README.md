@@ -1,6 +1,6 @@
 # <div align="center">Hi 👋 I'm Leander</div>
 # 💫 About Me:
-Hello, my name is Leander Alves I'm a Computer Engineer and dedicated in Full-stack development, currently based in Brazil(🇧🇷). Overall, I'm a software developer for over 4 years and very passionate about what I do, always looking to increase my knowledge, diversify my background and decipher challenging problems.<br><br>I'm a JS/C# and Angular/Vue.js Developer since 2020, and my development tools include some more JS/TS technologies such as: NestJS, PrismaORM, TypeORM and Node.js. But I'm not limited to these, I also have knowledge with ASP.NET, MongoDB, SQL, PostgreSQL, Docker and others...<br><br>In my free time I like to go to the gym (🏋🏻‍♂️), watch series [Friends mostly] (📺), to listen to music (🎵) and sometimes I like to enjoy a good beer (🍺).
+Hello, my name is Leander Alves I'm a Computer Engineer and dedicated in Full-stack development, currently based in Brazil(🇧🇷). Overall, I'm a software developer very passionate about what I do, always looking to increase my knowledge, diversify my background and decipher challenging problems.<br><br>I currently work with JS technologies, such as: Vue.js, Angular, NestJS, Prisma ORM, TypeORM, Express.JS and Node.js, but I am not limited to these. I also have knowledge about: ASP.NET, MongoDB, SQL, PostgreSQL, Docker and others...<br><br>In my free time I like to go to the gym (🏋🏻‍♂️), watch series [Friends mostly] (📺), to listen to music (🎵) and sometimes I like to enjoy a good beer (🍺).
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,10 +44,6 @@ Hello, my name is Leander Alves I'm a Computer Engineer and dedicated in Full-st
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=leanderalvess&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=leanderalvess&icon=0&color=1)](https://visitcount.itsvg.in)
-
 
 
 # 🌐 Would you like to find me?:
